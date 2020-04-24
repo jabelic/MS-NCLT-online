@@ -5,7 +5,7 @@
 
 
 @snap[north-west span-45]
-@box[bg-green text-white rounded box-padding](Status#IMS/MS, B3(gnd研/ogw研)
+@box[bg-green text-white rounded box-padding](Status#IMS/MS, <br>B3(gnd研/ogw研)
 @snapend
 
 @snap[north-east span-45]
