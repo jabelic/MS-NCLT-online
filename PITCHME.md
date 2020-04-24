@@ -1,11 +1,13 @@
-### サポートデスク in MS
+# @size[2.0em](サポートデスク in MS)
+
+Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 
 ---
 ### 自己紹介
 
 
 @snap[north-west span-35]
-@box[bg-green text-white rounded box-padding](Status#IMS/MS<br>B3<br>gnd研/ogw研 )
+@box[bg-green text-white rounded box-padding](Status#IMS/MS<br>B3<br>gndr研/ogw研 )
 @snapend
 
 @snap[north-east span-35]
@@ -56,7 +58,7 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 - Slack & Scrapbox
 - MSのサポートデスク
 - 悩みやトラブルを共有しよう！
-	- (大抵の疑問や不安に関しては、おおよそみんな同じことを考えています。)
+	- (1人の疑問はみんなの疑問。だいたいみんな同じことを考えている。)
 @ulend
 @snapend
 
@@ -64,20 +66,28 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 
 ### Slackとは
 
+- コミュニケーションツール
+- ワークスペース
+	- 話題別にチャンネルを作る(#statistics, #general, #troubleshooting, #clang)
 
+参考：[Slackって何？](https://slack.com/intl/ja-jp/help/articles/115004071768-Slack-%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F-)
 
 ---
 
 ### Scrapboxとは
 
+- 共有Wiki
+- 共同編集ができるのが強み
+- ネットワーク型のメモ(階層がない)
 
+参考：[第1話 Scrapboxってなあに？](https://scrapbox.io/wakaba-manga/%E7%AC%AC1%E8%A9%B1_Scrapbox%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%82%E3%81%AB%EF%BC%9F)
 
 ---
 
 - [Slackはこちらから](https://join.slack.com/t/ms-club-nakano/shared_invite/zt-dyrf2pep-krKcSsedq3XBmF~gb7rBVQ)
 
 - [Scrapbox招待URL(踏めば編集権限が渡ります。)](https://scrapbox.io/projects/ms-club-nakano/invitations/5f5b9976a7c7e90cda379a93a3019f22)
-- 「新しく入った人へ」を参照してください。
+	- 「新しく入った人へ」を参照してください。
 
 ---
 
@@ -97,6 +107,8 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 ---
 
 ### 作成中の資料を紹介
+
+新入生に向けて。
 
 ---
 
