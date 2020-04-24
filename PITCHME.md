@@ -26,13 +26,18 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 @snapend
 
 ---
-###お品書き
+### お品書き
 
 - 本題
+<br>
 	- 概要
+<br>
 	- Slackとは
+<br>
 	- Scrapboxとは
+<br>
 	- 質問例
+<br>
 - 作成中の資料を紹介
 
  
