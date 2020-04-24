@@ -110,15 +110,15 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 @snapend
 
 @snap[north-east span-35]
-@box[bg-blue text-white rounded box-padding](`#randam`#「低気圧くそ」)
+@box[bg-blue text-white rounded box-padding](randam#「低気圧くそ」)
 @snapend
 
 @snap[south-east span-35]
-@box[bg-blue text-white rounded box-padding](`#calculate`#「3行目と4行目の式変形がわかりません。」<Gyazoの写真を貼る>)
+@box[bg-blue text-white rounded box-padding](calculate#「3行目と4行目の式変形がわかりません。」<Gyazoの写真を貼る>)
 @snapend
 
 @snap[south-west span-35]
-@box[bg-blue text-white rounded box-padding](`#clang`#プログラムの質問等<ソースコードぺたっ。>)
+@box[bg-blue text-white rounded box-padding](clang#プログラムの質問等<ソースコードぺたっ。>)
 @snapend
 
 ---
