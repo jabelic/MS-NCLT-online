@@ -1,6 +1,7 @@
 # @size[0.6em](サポートデスク in MS)
 
 Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
+at : https://gitpitch.com/jabelic/ms-nclt-online#/
 
 ---
 ### 自己紹介
@@ -29,15 +30,10 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 ### お品書き
 
 - 本題
-<br>
 	- 概要
-<br>
 	- Slackとは
-<br>
 	- Scrapboxとは
-<br>
 	- 質問例
-<br>
 - 作成中の資料を紹介
 
  
