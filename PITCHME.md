@@ -26,6 +26,18 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 @snapend
 
 ---
+###お品書き
+
+- 本題
+	- 概要
+	- Slackとは
+	- Scrapboxとは
+	- 質問例
+- 作成中の資料を紹介
+
+ 
+
+---
 ### 本題
 
 サポートデスク in MS
@@ -91,7 +103,12 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 
 ---
 
-### 質問例
+### 例
+
+@box[bg-blue text-white rounded box-padding](例#「この本めっちゃよかったので読め」)
+@box[bg-blue text-white rounded box-padding](例#「低気圧くそ」)
+@box[bg-blue text-white rounded box-padding](例#「3行目と4行目の式変形がわかりません。」<Gyazoの写真を貼る>)
+@box[bg-blue text-white rounded box-padding](例#プログラムの質問等<ソースコードぺたっ。>)
 
 <br>
 [質問は恥ではないし役に立つ](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)
@@ -126,4 +143,3 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 ---
 
 `#MS_NCLT`
-`#online`
