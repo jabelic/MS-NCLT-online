@@ -20,7 +20,7 @@
 @box[bg-blue text-white rounded box-padding](自粛中に増えた趣味#ストレッチ)
 @snapend
 
-@fa[refresh fa-3x]
+@snap[midpoint]
 @snapend
 
 ---
