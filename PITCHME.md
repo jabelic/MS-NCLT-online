@@ -33,6 +33,7 @@ status: IMS/MS, B3(gnd研/ogw研)
 
 MS Slackコミュニティ「数理科学クラブ中野」
 
+---
 
 @snap[west span-45 text-center]
 MS Slackコミュニティ<br>「数理科学クラブ中野」
