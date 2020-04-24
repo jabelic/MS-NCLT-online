@@ -104,6 +104,7 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 ---
 
 ### 例
+
 @snap[north-west span-35]
 @box[bg-blue text-white rounded box-padding](`#randam`#「この本めっちゃよかったので読め」)
 @snapend
@@ -116,6 +117,9 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 @snap[south-west span-35]
 @box[bg-blue text-white rounded box-padding](`#clang`#プログラムの質問等<ソースコードぺたっ。>)
 @snapend
+
+---
+
 <br>
 [質問は恥ではないし役に立つ](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)
 - 正直こんなに色々書かなくていいと思うけど(所属とか)、必要な情報を書こうね、というお話。
