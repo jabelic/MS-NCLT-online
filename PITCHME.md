@@ -4,19 +4,19 @@
 ### 自己紹介
 
 
-@snap[north-west span-45]
-@box[bg-green text-white rounded box-padding](Status#IMS/MS, <br>B3(gnd研/ogw研)
+@snap[north-west span-35]
+@box[bg-green text-white rounded box-padding](Status#IMS/MS<br>B3<br>gnd研/ogw研 )
 @snapend
 
-@snap[north-east span-45]
+@snap[north-east span-35]
 @box[bg-orange text-white rounded box-padding](趣味#睡眠とぷよぐやみんぐ)
 @snapend
 
-@snap[south-east span-45]
+@snap[south-east span-35]
 @box[bg-pink text-white rounded box-padding](特徴#スマホを首からぶら下げている)
 @snapend
 
-@snap[south-west span-45]
+@snap[south-west span-35]
 @box[bg-blue text-white rounded box-padding](自粛中に増えた趣味#ストレッチ)
 @snapend
 
