@@ -12,3 +12,8 @@ transition: fade
 # Plugins
 charts : true
 mathjax : TeX-AMS_HTML-full
+
+#twitter
+#title : "Elixir Lang"
+#description : "A functional, concurrent language on the Erlang VM"
+#thumbnail : assets/jabelic_img.png
