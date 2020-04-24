@@ -3,18 +3,7 @@
 ---
 ### 自己紹介
 
-<br>
-
-
----
-
-@snap[west h3-white span-50]
-### @fa[calendar] Dec 15, 2018
-@snapend
-
-@snap[east span-50]
-@tweet[https://twitter.com/gitpitch/status/1073880271366180865]
-@snapend
+@box[class...](title # text)
 
 ---
 
