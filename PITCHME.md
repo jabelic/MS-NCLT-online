@@ -84,11 +84,20 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 
 ---
 
+### 作成中の資料を紹介
 
-- MacBookAir/Cプログラム　入門(制作途中。全然書いてない。)
-- 初めてのパーソナルコンピューター
-- 初めての大学生活
-- LaTeXテキスト for Freshman
+---
+
+- [MacBookAir/Cプログラム　入門](https://hackmd.io/@Jabelic/ry4LtABu8)(制作途中。全然書いてない。)
+- [初めてのパーソナルコンピューター](https://hackmd.io/@Jabelic/rJkpsW1wU)
+- [初めての大学生活](https://hackmd.io/@Jabelic/B13oLy5UL)
+- [LaTeXテキスト for Freshman](https://hackmd.io/@Jabelic/rJ4uZjKUL)
+
+---
+
+リクエストがあれば、[beechan](https://twitter.com/hibiki_com__)まで
+
+ログインすれば編集できるので、割り込み書き込み修正歓迎です。
 
 ---
 
