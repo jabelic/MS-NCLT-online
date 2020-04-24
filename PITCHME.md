@@ -11,7 +11,7 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 @snapend
 
 @snap[north-east span-35]
-@box[bg-orange text-white rounded box-padding](趣味#睡眠とぷよぐやみんぐ)
+@box[bg-orange text-white rounded box-padding](趣味#睡眠とぷよぐやみんぐとストレッチ)
 @snapend
 
 @snap[south-east span-35]
