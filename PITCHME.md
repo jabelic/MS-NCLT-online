@@ -19,7 +19,7 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 @snapend
 
 @snap[south-west span-35]
-@box[bg-blue text-white rounded box-padding](Twitter#`@hibiki_com__/@Jabelic_`)
+@box[bg-blue text-white rounded box-padding](Twitter#`@hibiki_com__<br>@Jabelic_`)
 @snapend
 
 @snap[midpoint]
