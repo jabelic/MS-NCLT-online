@@ -106,7 +106,7 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 ### 例
 
 @snap[north-west span-35]
-@box[bg-blue text-white rounded box-padding](`#randam`#「この本めっちゃよかったので読め」)
+@box[bg-blue text-white rounded box-padding](randam#「この本めっちゃよかったので読め」)
 @snapend
 
 @snap[north-east span-35]
