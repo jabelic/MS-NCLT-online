@@ -4,7 +4,8 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 
 ---
 ### 自己紹介
-こんにちは。beechan(`@hibiki_com__`)です。JabelicはGitHubのUsernameです。
+beechan(`@hibiki_com__`)
+JabelicはGitHubのUsernameです。
 
 
 @snap[north-west span-35]
@@ -20,7 +21,7 @@ Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 @snapend
 
 @snap[south-west span-35]
-@box[bg-blue text-white rounded box-padding](自粛中に増えた趣味#ストレッチ)
+@box[bg-blue text-white rounded box-padding](Twitter#@hibiki_com__/@Jabelic_)
 @snapend
 
 @snap[midpoint]
