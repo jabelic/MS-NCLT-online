@@ -105,10 +105,10 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 
 ### 例
 
-@box[bg-blue text-white rounded box-padding](例#「この本めっちゃよかったので読め」)
-@box[bg-blue text-white rounded box-padding](例#「低気圧くそ」)
-@box[bg-blue text-white rounded box-padding](例#「3行目と4行目の式変形がわかりません。」<Gyazoの写真を貼る>)
-@box[bg-blue text-white rounded box-padding](例#プログラムの質問等<ソースコードぺたっ。>)
+@box[bg-blue text-white rounded box-padding](`#randam`#「この本めっちゃよかったので読め」)
+@box[bg-blue text-white rounded box-padding](`#randam`#「低気圧くそ」)
+@box[bg-blue text-white rounded box-padding](`#calculate`#「3行目と4行目の式変形がわかりません。」<Gyazoの写真を貼る>)
+@box[bg-blue text-white rounded box-padding](`#clang`#プログラムの質問等<ソースコードぺたっ。>)
 
 <br>
 [質問は恥ではないし役に立つ](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)
