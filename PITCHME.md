@@ -1,4 +1,4 @@
-# @size[2.0em](サポートデスク in MS)
+# @size[1.0em](サポートデスク in MS)
 
 Jabelic(`@jabelic_`)/beechan(`@hibiki_com__`)
 
