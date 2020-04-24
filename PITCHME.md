@@ -2,14 +2,15 @@
 
 ---
 ### 自己紹介
-
-status: IMS/MS, B3(gnd研/ogw研)
+@ul[list-spaced-bullets list-fade-fragments]
+Status: IMS/MS, B3(gnd研/ogw研)
 
 趣味: 睡眠とぷよぐやみんぐ
 
 特徴: スマホを首からぶら下げている
 
 自粛中に増えた趣味: ストレッチ
+@ulend
 
 ---
 ### 本題
