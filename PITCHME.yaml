@@ -1,0 +1,14 @@
+theme: night
+logo: jabelic_img.jpg
+slide-number: true
+footnote: "@jabelic"
+
+highlight : ir-black
+
+# Behavior
+published : true
+transition: fade
+
+# Plugins
+charts : true
+mathjax : TeX-AMS_HTML-full
