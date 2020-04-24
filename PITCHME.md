@@ -36,7 +36,7 @@ MS Slackコミュニティ「数理科学クラブ中野」
 ---
 
 @snap[west span-45 text-center]
-MS Slackコミュニティ<br>「数理科学クラブ中野」
+MS Slackコミュニティ<br>**数理科学クラブ中野**
 @snapend
 
 @snap[east span-55 text-center]
@@ -48,14 +48,41 @@ MS Slackコミュニティ<br>「数理科学クラブ中野」
 @ulend
 @snapend
 
+---
+
+### Slackとは
 
 
 
 
 ---
 
+###Scrapboxとは
 
 
+
+
+---
+
+[Slackはこちらから](https://join.slack.com/t/ms-club-nakano/shared_invite/zt-dyrf2pep-krKcSsedq3XBmF~gb7rBVQ)
+
+[Scrapbox招待URL(踏めば編集権限が渡ります。)](https://scrapbox.io/projects/ms-club-nakano/invitations/5f5b9976a7c7e90cda379a93a3019f22)
+- 「新しく入った人へ」を参照してください。
+
+---
+
+### 質問例
+
+[質問は恥ではないし役に立つ](https://qiita.com/seki_uk/items/4001423b3cd3db0dada7)
+- 正直こんなに色々書かなくていいと思うけど(所属とか)、必要な情報を書こうね、というお話。
+
+まあなんか役に立てばいいと思っています。おもしろかった技術記事とか共有するも良し（よくやる）。
+
+---
+
+
+
+---
 
 `#MS_NCLT`
 `#online`
