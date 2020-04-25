@@ -157,4 +157,7 @@ MS Slackコミュニティ<br>**数理科学クラブ中野**
 
 ---
 
-`#MS_NCLT`
+<img src="assets/twitterprofile.png">
+
+
+`MS_NCLT`
